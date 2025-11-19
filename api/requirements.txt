@@ -1,0 +1,18 @@
+# API requirements
+# This file lists the dependencies required for the API component of the project.
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-openai
+langchain-core
+langchain_community
+langgraph
+tavily-python
+beautifulsoup4
+pypdf
+python-docx
+streamlit-feedback
+gunicorn   # Gunicorn is required for production deployment on Render
+aiosqlite 
+langchain-tavily
